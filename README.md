@@ -26,7 +26,5 @@
  
 </div><br>
 
-[![Johnattamedeiros's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnattamedeiros&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
  
 
